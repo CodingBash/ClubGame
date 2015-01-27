@@ -6,6 +6,7 @@ public class TestFile {
 		// TODO Auto-generated method stub
 		TestObject test = new TestObject();
 		test.printTest();
+		test.testOne("Works!");
 	}
 
 }
