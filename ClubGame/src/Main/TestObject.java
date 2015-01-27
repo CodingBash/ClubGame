@@ -7,7 +7,7 @@ public class TestObject {
 	}
 	
 	public void printTest(){
-		System.out.println("It Works!");
+		System.out.println("Now this works. Yay!");
 	}
 	public void testOne(String s){
 		System.out.println(s);
